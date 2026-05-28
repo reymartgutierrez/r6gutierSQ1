@@ -5,7 +5,7 @@
 let exit8Img;
 
 function preload() {
-  exit8Img = loadImage("assets/images/exit8.png" ); [1]
+  exit8Img = loadImage("assets/images/exit8.png" );
 }
 
 function setup() {

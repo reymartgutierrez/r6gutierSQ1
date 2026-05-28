@@ -8,7 +8,7 @@ To run the sketch locally, open `index.html` in Google Chrome. No additional set
 
 | File | Source |
 |------|--------|
-| `assets/images/exit8.png` | Taken from https://www.playstation.com/en-ca/games/the-exit-8/|
+| `assets/images/exit8.png` [1] | Taken from https://www.playstation.com/en-ca/games/the-exit-8/|
 
 ## References
 [1] https://www.playstation.com/en-ca/games/the-exit-8/|
