@@ -8,7 +8,7 @@ To run the sketch locally, open `index.html` in Google Chrome. No additional set
 
 | File | Source |
 |------|--------|
-| `assets/images/exit8.png` [1] | Taken from https://www.playstation.com/en-ca/games/the-exit-8/|
+| `assets/images/exit8.png` [1] | The Exit 8 - playstation.com|
 
 ## References
-[1] https://www.playstation.com/en-ca/games/the-exit-8/|
+[1] Kotake Create. 2024. The Exit 8 (PS4/PS5 version). Video game. Published by Playism. Retrieved June 7, 2026 from https://www.playstation.com/en-ca/games/the-exit-8/
